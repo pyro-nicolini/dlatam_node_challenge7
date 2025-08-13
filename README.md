@@ -5,7 +5,6 @@ Esta suite de pruebas automatizadas valida las operaciones básicas de una API R
 Utiliza **Jest** y **Supertest** para comprobar el comportamiento esperado de las rutas definidas en el servidor.
 
 ## Pruebas 
-
 1. **GET /cafes**
    - Verifica que la ruta retorne status **200** y un **arreglo con al menos un objeto**.
 
